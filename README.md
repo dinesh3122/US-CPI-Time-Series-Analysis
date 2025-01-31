@@ -492,4 +492,4 @@ After going over the various accuracy metrics, and visually comparing the predic
 
 ## Conclusion
 
-
+According to the SARIMA model's forecast, the Consumer Price Index (CPI) indicates a continued upward trend in prices, suggesting that inflation will persist in the foreseeable future. This projection is critical for policymakers, particularly the Federal Reserve (Fed), as they rely on CPI data to make informed decisions regarding monetary policy. The Fed closely monitors inflation indicators like the CPI to adjust interest rates appropriately, aiming to maintain price stability and support economic growth. By raising interest rates, the Fed can attempt to cool down inflation, while lowering rates can stimulate economic activity. Therefore, the insights gained from the SARIMA model's analysis of the CPI not only provide a clearer picture of future inflation trends but also play a pivotal role in shaping the Fed's strategy for managing the economy.
